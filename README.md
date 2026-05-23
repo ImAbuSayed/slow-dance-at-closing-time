@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/slow-dance-at-closing-time/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Slow Dance at Closing Time](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-dance-at-closing-time/) |
+| **Get License** | [Secure Licensing Rights for Slow Dance at Closing Time](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-dance-at-closing-time/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The neon sign is buzzing, but I only see your eyes
+> We’re the last two in the corner, underneath these faded lights
+> I can feel the chemistry, every time you look my way
+> Let the whole world turn to shadows, I just want to make you stay
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
