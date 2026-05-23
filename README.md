@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/slow-dance-at-closing-time/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Slow Dance at Closing Time](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-dance-at-closing-time/) |
+| **Get License** | [Obtain a Music License for Slow Dance at Closing Time](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-dance-at-closing-time/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1985)
 
 ---
 
