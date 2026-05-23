@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/slow-dance-at-closing-time/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Slow Dance at Closing Time](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-dance-at-closing-time/) |
+| **Get License** | [Official Music Licensing for Slow Dance at Closing Time](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-dance-at-closing-time/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e1873fe1b347f0d1d9d01582785472e841bea27b9a0676739682d736dc0f8248` |
 | **Timestamp** | May 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
